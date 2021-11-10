@@ -10,12 +10,13 @@ En este proyecto vamos a revisar la referencia hacia los servidores donde se hos
 > En este modúlo aparecen por default dos tipos de usuarios, a partir de ellos 
 > se van a generar los que se requieran.
 2. Control de acceso
-    * Los permisos de acceso para los modulos se van a presentar de acuerdo a si son internos o externos.
+    * Selección de opciones para asignar individualmente a los usuarios.
+> Los permisos de acceso para los modulos se van a presentar de acuerdo a si son internos o externos.
 3. Capturas
     * Esta opción es para preparar los tipos de capturas que se tiene para la información que se presentaran en el sistema.
 4. Estudios
     * Este modulo es para la captura de los estudios que se manejan en la cliníca.
 5. Paquetes
-    * En esta opción se va a configurar la forma en que se van a presentar los servicios que estan disponibles para ofrecer a los pacientes.
+    * En esta opción se va a configurar la forma en que se van a presentar los servicios que se ofrecen a los pacientes.
 6. Gpos Etarios
     * Esta opción va a pertenecer a la de utilidades porque van a aparecer agrupadas las edades de los pacientes.
