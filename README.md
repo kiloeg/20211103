@@ -4,6 +4,8 @@ En este proyecto vamos a revisar la referencia hacia los servidores donde se hos
 
 ## Los modúlos que se presentan son los siguientes:
 1. Usuarios
+> En este modúlo por default van aparecer dos tipos de usuarios genericos a partir de ellos 
+> se van a generar los que se requieran.
 2. Control de acceso
 3. Capturas
 4. Estudios
